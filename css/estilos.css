@@ -45,8 +45,18 @@ body
 {
     font-size: 16px;
 }
+<<<<<<< HEAD
 #post
 {
     background-color: white;
     padding: 1em;
+=======
+
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
+>>>>>>> 8f443de919af64e3bb58bc9261f2a04f01a4b0b3
 }
